@@ -1,0 +1,10 @@
+{
+    
+    "video": true,
+    "projectId": "8pyfmq",
+    "capture": "viewport",
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "retries": 4,
+    "experimentalStudio": true
+}
